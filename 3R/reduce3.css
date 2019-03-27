@@ -1,0 +1,34 @@
+body{
+  position: relative;
+  width: 100%;
+  height: 10vh;
+  background: url("3R/baru3.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.image1{
+  position: relative;
+  left: 5%;
+}
+
+.image2{
+  position: relative;
+  left: 20%;
+}
+
+.first{
+  position: relative;
+  width: 70%;
+  background-color: #4286f4;
+  left: 15%;
+  opacity: 0.9;
+}
+
+.second{
+  position: relative;
+  width: 70%;
+  left: 15%;
+  background-color: #4286f4;
+  opacity: 0.9;
+
+}

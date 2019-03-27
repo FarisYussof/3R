@@ -1,0 +1,41 @@
+body{
+  position: relative;
+  width: 100%;
+  height: 10vh;
+  background: url("3R/solar back.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.image1{
+  position: relative;
+  left: 20%;
+}
+
+.first{
+  position: relative;
+  width: 70%;
+  background-color: #4286f4;
+  left: 15%;
+  background-color: white;
+  opacity: 0.7;
+}
+
+.second{
+  position: relative;
+  width: 70%;
+  left: 15%;
+  background-color: #4286f4;
+  background-color: white;
+  opacity: 0.7;
+
+}
+
+.third{
+  position: relative;
+  left: 15%;
+  width: 70%;
+  background-color: #4286f4;
+  opacity: 0.9;
+
+
+}

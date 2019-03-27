@@ -1,0 +1,103 @@
+body{
+  background-image: url("b1.jpg");
+  position: relative;
+  left: 15px;
+  overflow-x: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 45px;
+
+}
+.logo{
+  width: 190px;
+  height: 250px;
+  left: 20px;
+  top: -50px;
+  position: relative;
+}
+.logo img{
+  width: 200px;
+  height: auto;
+
+}
+.Title{
+  position: absolute;
+  top: 40px;
+  left: 175px;
+  font-style: italic;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+#home{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+}
+#green{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+}
+#news{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+
+}
+#local{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+
+}
+#worldwide{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+
+}
+#faq{
+  background-image: radial-gradient(green, yellow);
+  width: 115px;
+  border-radius: 75px;
+  opacity: 0.8px;
+}
+h2{
+  padding: 20px 15px;}
+
+h2::after{
+  background-image: url("https://png.pngtree.com/element_pic/00/16/07/165789984e908db.jpg");
+  width: auto;
+  height: auto;
+}
+p{
+    padding: 20px 15px;}
+a:link {
+    text-decoration: none;}
+
+a:visited {
+    color: black;}
+
+a:hover {
+    color: cyan;}
+
+h3{
+  font-size: 45px;
+
+}
+.box1{
+  padding: 35px;
+  margin: 45px;
+  border: 5px solid black;
+  background-color: rgba(165, 165, 165, 1);
+}
+.box1 p{
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: justify;
+}
